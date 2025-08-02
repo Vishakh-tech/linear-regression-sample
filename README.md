@@ -14,7 +14,7 @@ This repository demonstrates:
 linear-regression-sample/
 │
 ├── data/
-│   └── 50_Startups.csv         # Real-world dataset
+│   └── Startups.csv         # Real-world dataset
 │
 ├── simple_linear_regression.py     # Simple linear regression example
 ├── multiple_linear_regression.py   # Multiple linear regression example
