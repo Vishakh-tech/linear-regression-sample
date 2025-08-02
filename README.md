@@ -42,4 +42,4 @@ python multiple_linear_regression.py
 
 ## 📊 Dataset
 
-- Dataset used: [50_Startups.csv](https://www.kaggle.com/datasets/nirajvermafcb/startups)
+- Dataset used: [Startups.csv](https://www.kaggle.com/datasets/nirajvermafcb/startups)
