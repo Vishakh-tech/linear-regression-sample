@@ -8,7 +8,7 @@ from sklearn.metrics import r2_score
 import numpy as np
 
 # Load dataset
-data = pd.read_csv('data/50_Startups.csv')
+data = pd.read_csv('data/Startups.csv')
 
 X = data[['R&D Spend', 'Administration', 'Marketing Spend', 'State']]
 y = data['Profit']
